@@ -1,3 +1,5 @@
 var nome=window.prompt("Digite seu nome:")
 var sobrenome=window.prompt("Digite seu sobrenome")
 window.alert("Olá "+nome.toString()+" "+sobrenome.toString()+", seja bem vindo")
+//var nome=window.prompt("Digite seu nome completo:")
+//window.alert(`Seja bem vindo, ${nome.toString()}!`)
